@@ -10,7 +10,7 @@ In this GitHub repo, you will find:
 - NoSQL_setup_starter.ipynb: Main coding section for database setup and updating.
 
 ### Resources Folder:
-Contains the JSON file (establishments.json) used to carry the data for analysis.
+- Contains the JSON file (establishments.json) used to carry the data for analysis.
 
 
 ## Acknowledgments
